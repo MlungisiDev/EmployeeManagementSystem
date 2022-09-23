@@ -1,0 +1,15 @@
+c:\users\ma-ori\documents\visual studio 2015\Projects\EmployeeMngmentSystem\EmployeeMngmentSystem\bin\Debug\EmployeeMngmentSystem.exe.config
+c:\users\ma-ori\documents\visual studio 2015\Projects\EmployeeMngmentSystem\EmployeeMngmentSystem\bin\Debug\EmployeeMngmentSystem.exe
+c:\users\ma-ori\documents\visual studio 2015\Projects\EmployeeMngmentSystem\EmployeeMngmentSystem\bin\Debug\EmployeeMngmentSystem.pdb
+c:\users\ma-ori\documents\visual studio 2015\Projects\EmployeeMngmentSystem\EmployeeMngmentSystem\obj\Debug\EmployeeMngmentSystem.Login.resources
+c:\users\ma-ori\documents\visual studio 2015\Projects\EmployeeMngmentSystem\EmployeeMngmentSystem\obj\Debug\EmployeeMngmentSystem.Properties.Resources.resources
+c:\users\ma-ori\documents\visual studio 2015\Projects\EmployeeMngmentSystem\EmployeeMngmentSystem\obj\Debug\EmployeeMngmentSystem.csproj.GenerateResource.Cache
+c:\users\ma-ori\documents\visual studio 2015\Projects\EmployeeMngmentSystem\EmployeeMngmentSystem\obj\Debug\EmployeeMngmentSystem.exe
+c:\users\ma-ori\documents\visual studio 2015\Projects\EmployeeMngmentSystem\EmployeeMngmentSystem\obj\Debug\EmployeeMngmentSystem.pdb
+C:\Users\Ma-Ori\documents\visual studio 2015\Projects\EmployeeMngmentSystem\EmployeeMngmentSystem\obj\Debug\EmployeeMngmentSystem.Employees.resources
+C:\Users\Ma-Ori\documents\visual studio 2015\Projects\EmployeeMngmentSystem\EmployeeMngmentSystem\bin\Debug\Guna.UI2.dll
+C:\Users\Ma-Ori\documents\visual studio 2015\Projects\EmployeeMngmentSystem\EmployeeMngmentSystem\obj\Debug\EmployeeMngmentSystem.Departments.resources
+C:\Users\Ma-Ori\documents\visual studio 2015\Projects\EmployeeMngmentSystem\EmployeeMngmentSystem\obj\Debug\EmployeeMngmentSystem.Salaries.resources
+C:\Users\Ma-Ori\Documents\Visual Studio 2015\Projects\EmployeeMngmentSystem\EmployeeMngmentSystem\obj\Debug\EmployeeMngmentSystem.csprojAssemblyReference.cache
+C:\Users\Ma-Ori\Documents\Visual Studio 2015\Projects\EmployeeMngmentSystem\EmployeeMngmentSystem\obj\Debug\EmployeeMngmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\Ma-Ori\Documents\Visual Studio 2015\Projects\EmployeeMngmentSystem\EmployeeMngmentSystem\obj\Debug\EmployeeMngmentSystem.csproj.CopyComplete
